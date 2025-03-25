@@ -16,5 +16,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamahless&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
 <a href="https://github.com/iamahless">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamahless&theme=nord&langs_count=4&hide=javascript,html,css,blade,vue,scss,shell,handlebars,dart,java,rust" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamahless&theme=nord&langs_count=4&hide=html,css,blade,vue,scss,shell,handlebars,dart,java,rust" />
 </a>
