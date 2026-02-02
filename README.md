@@ -1,9 +1,9 @@
 ### Quick highlights
-- Extensive experience in PHP and JavaScript
-- 5+ years of professional experience in the software industry
+- Extensive experience in PHP, JavaScript/TypeScript, Python and Go
+- 6+ years of professional experience in the software industry
 - Experience in developing distributed systems using microservice architecture and message passing.
 - Developed applications by following SOLID principles and clean architecture.
-- Experience in developing applications utilizing TDD (Test Driven Development), Unit and Integration testing 
+- Experience in developing applications utilising TDD (Test Driven Development), Unit and Integration testing 
 - Worked in Agile Scrum process in software development
 
 
