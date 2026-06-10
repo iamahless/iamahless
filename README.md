@@ -1,4 +1,4 @@
-# Hi, I'm Alexander Garuba 👋
+# Hi, I'm Alexander 👋
 
 ### Senior Backend Engineer · Distributed Systems · Fintech Infrastructure
 
